@@ -33,7 +33,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/index.html"></code>
 <!--<code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
