@@ -1,4 +1,4 @@
-<a target="_blank"><img height = "300" width="340" align="right" src="https://github.com/rhridwan/rhridwan/blob/main/images/A.gif"></a>
+<a target="_blank"><img height = "310" width="340" align="right" src="https://github.com/rhridwan/rhridwan/blob/main/images/A.gif"></a>
 
 
 # Ridwanul Haque
@@ -40,7 +40,8 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 <code><img height="50" src=""></code>
 
 
-
+![My Github stats](https://github-readme-stats.vercel.app/api?username=rhridwan&show_icons=true&hide_border=true)
+![Neloy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaneloy&layout=compact&hide_border=true)
 
 <!--
 **rhridwan/rhridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
