@@ -33,15 +33,12 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/index.html"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/util/convert_to_png.html?svg=/logos/linux/linux-ar21.svg"></code>
 <!--<code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 
-
-![My Github stats](https://github-readme-stats.vercel.app/api?username=rhridwan&show_icons=true&hide_border=true)
-![Neloy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aaneloy&layout=compact&hide_border=true)
 
 <!--
 **rhridwan/rhridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
