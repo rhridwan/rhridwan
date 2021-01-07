@@ -1,4 +1,44 @@
-### Hi there 👋
+<a target="_blank"><img height = "340" width="350" align="right" src="https://github.com/rhridwan/Ridwanul-Haque/blob/main/images/A.gif"></a>
+
+
+### Ridwanul Haque
+
+
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ridwanul.haque@northsouth.edu)
+[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ridwanul-haque-b4729a169/)
+
+<p1 align="justify">
+I am an <b>undergraduate student</b> at the <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, <a href="http://www.northsouth.edu/">North South University</a>.
+</p1>
+
+<p align="justify">
+My primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
+
+</p>
+
+
+## Some things I use
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+
+<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg"></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+
+## External Links
+* [ResearchGate](https://www.researchgate.net/profile/Ridwanul_Haque)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=-RdiYlQAAAAJ)
+* [LinkedIn](https://www.linkedin.com/in/ridwanul-haque-b4729a169/)
+* [Instagram](https://www.instagram.com/xihridwan/)
+* [Twiter](https://twitter.com/RHRidwan3)
+
+
 
 <!--
 **rhridwan/rhridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +54,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
