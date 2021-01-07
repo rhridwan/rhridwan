@@ -1,7 +1,7 @@
 <a target="_blank"><img height = "340" width="350" align="right" src="https://github.com/rhridwan/rhridwan/blob/main/images/A.gif"></a>
 
 
-### Ridwanul Haque
+# Ridwanul Haque
 
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ridwanul.haque@northsouth.edu)
@@ -17,7 +17,15 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 </p>
 
 
-## Some things I use
+## Search me here!!
+* [ResearchGate](https://www.researchgate.net/profile/Ridwanul_Haque)
+* [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=-RdiYlQAAAAJ)
+* [LinkedIn](https://www.linkedin.com/in/ridwanul-haque-b4729a169/)
+* [Instagram](https://www.instagram.com/xihridwan/)
+* [Twiter](https://twitter.com/RHRidwan3)
+
+
+## Some things I use 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -26,17 +34,11 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
 <code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-ar21.svg"></code>
-<code><img height="50" src=""></code>
+<!--<code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 
-## External Links
-* [ResearchGate](https://www.researchgate.net/profile/Ridwanul_Haque)
-* [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=-RdiYlQAAAAJ)
-* [LinkedIn](https://www.linkedin.com/in/ridwanul-haque-b4729a169/)
-* [Instagram](https://www.instagram.com/xihridwan/)
-* [Twiter](https://twitter.com/RHRidwan3)
 
 
 
