@@ -33,7 +33,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 
-<code><img height="50" src="https://www.vectorlogo.zone/util/convert_to_png.html?svg=/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=rhridwan&show_icons=true&hide_border=true)
