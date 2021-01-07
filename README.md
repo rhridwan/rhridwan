@@ -1,4 +1,4 @@
-<a target="_blank"><img height = "320" width="330" align="right" src="https://github.com/rhridwan/rhridwan/blob/main/images/A.gif"></a>
+<a target="_blank"><img height = "300" width="340" align="right" src="https://github.com/rhridwan/rhridwan/blob/main/images/A.gif"></a>
 
 
 # Ridwanul Haque
