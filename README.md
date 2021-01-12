@@ -31,7 +31,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_gitbash/w3_gitbash-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git bash/git bash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
