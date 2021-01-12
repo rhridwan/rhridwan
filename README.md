@@ -31,6 +31,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/gitbash/gitbash-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
@@ -39,6 +40,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=rhridwan&theme=dracula&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhridwan&theme=dracula&layout=compact&hide_border=true)
+
 
 <!--<code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
