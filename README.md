@@ -1,7 +1,7 @@
 <a target="_blank"><img height = "260" width="300" align="right" src="https://github.com/rhridwan/rhridwan/blob/main/images/A.gif"></a>
 
 
-# Ridwanul Haque
+# RH Ridwan
 
 
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ridwanul.haque@northsouth.edu)
