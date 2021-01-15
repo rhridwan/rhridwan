@@ -25,7 +25,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 * [Twiter](https://twitter.com/RHRidwan3)
 
 
-## Some things I use 
+## Some Thing I Use... 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
