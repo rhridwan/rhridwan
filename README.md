@@ -13,8 +13,8 @@ I am an <b>undergraduate student</b> at the <a href="http://ece.northsouth.edu/"
 </p1>
 
 <p align="justify">
-My primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
-
+My primary field of interest is <b>Machine Learning</b> and applications of 
+  <b>Computer Vision</b> in <b>Robotics</b>.
 </p>
 
 
