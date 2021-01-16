@@ -35,7 +35,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 <code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="50" src="https://www.seeklogo.com/images/S/sketchup-logo-5248E6166E-seeklogo.com.png%22%3E"</code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"</code>
 
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=rhridwan&theme=dracula&show_icons=true&hide_border=true)
