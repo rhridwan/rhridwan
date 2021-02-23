@@ -25,7 +25,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 * [Twiter](https://twitter.com/RHRidwan3)
 
 
-## Some Thing I Use... 
+## Some Thing I Use ... 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
@@ -41,7 +41,12 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=rhridwan&theme=dracula&show_icons=true&hide_border=true)
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhridwan&theme=dracula&layout=compact&hide_border=true)
 
-
+## Some Thing About Me ...
+- 🔭 I’m currently working on Course Projects.
+- 🌱 I’m currently learning Python, Machine Learning.
+- 💬 Ask me about nothing...
+- 📫 How to reach me: Just Search or Email me.
+- ⚡ Fun fact: We have a Robotic Team named <b>Ignite</b>. Look at <a href="https://www.facebook.com/nsuignite">NSU IGNITE</a>.
 
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
@@ -55,7 +60,6 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 
 <!--
 **rhridwan/rhridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
