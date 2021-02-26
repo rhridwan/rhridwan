@@ -16,10 +16,9 @@ I am an <b>undergraduate student</b> at the <a href="http://ece.northsouth.edu/"
 My primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
 </p>
 
-</br>
-
 <p align="justify">
-we have a small <b>Robotic</b> team named <b>IGNITE<b/>. For further info click <a href="https://www.facebook.com/nsuignite" target="_blank">.
+
+  - :briefcase: Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>.
 </p>
 
 
@@ -49,6 +48,7 @@ we have a small <b>Robotic</b> team named <b>IGNITE<b/>. For further info click 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhridwan&theme=dracula&layout=compact&hide_border=true)
 
 ## Some Thing About Me ...
+
 - 🔭 I’m currently working on Course Projects.
 - 🌱 I’m currently learning Python, Machine Learning.
 - 💬 Ask me about nothing...
@@ -68,7 +68,7 @@ we have a small <b>Robotic</b> team named <b>IGNITE<b/>. For further info click 
 <!--
 **rhridwan/rhridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
-
+- :briefcase: Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -77,6 +77,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 
+- I have a small <b>Robotic</b> team named <a href="https://www.facebook.com/nsuignite" target="_blank"><b>IGNITE<b/></a>.
+
+- :briefcase: Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
 -->
 
