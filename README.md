@@ -16,6 +16,13 @@ I am an <b>undergraduate student</b> at the <a href="http://ece.northsouth.edu/"
 My primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
 </p>
 
+</br>
+
+<p align="justify">
+we have a small <b>Robotic</b> team named <b>IGNITE<b/>. For further info click <a href="https://www.facebook.com/nsuignite" target="_blank">.
+</p>
+
+
 
 ## Search me here!!
 * [ResearchGate](https://www.researchgate.net/profile/Ridwanul_Haque)
@@ -70,5 +77,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 
 -->
 
