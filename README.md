@@ -9,7 +9,7 @@
 ![Profile views](https://gpvc.arturio.dev/rhridwan)
 
 <p1 align="justify">
-I am an <b>undergraduate student</b> at the <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, <a href="http://www.northsouth.edu/">North South University</a>.
+I am an <b>recently graduated</b> from the <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, <a href="http://www.northsouth.edu/">North South University</a>.
 </p1>
 
 <p align="justify">
