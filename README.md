@@ -10,16 +10,12 @@
 ![Profile views](https://gpvc.arturio.dev/rhridwan)
 
 <p1 align="justify">
-I am <b>Computer Science and Engineering Graduate</b> from <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, <a href="http://www.northsouth.edu/">North South University</a>.
+I am <b>Computer Science and Engineering Graduate</b> from <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, <a href="http://www.northsouth.edu/">North South University</a>. My primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
 </p1>
 
 <p align="justify">
-My primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
-</p>
-
-<p align="justify">
-
-  - :briefcase: Founder of <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>.
+  
+  :briefcase: Founder - <a href="https://www.facebook.com/nsuignite" target="_blank"><b>NSU IGNITE</b></a>
 </p>
 
 
@@ -42,10 +38,8 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 
 
 
-
-<h2 align="center">Github Stats</h2>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=rhridwan&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
+<h2 align="left">Github Stats</h2>
+<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=rhridwan&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
 </div>
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=rhridwan&theme=dracula&show_icons=true&hide_border=true)
@@ -54,7 +48,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 
 
 
-## Things ...
+### About Me ...
 
 - 🔭 I’m currently working on Personal Development.
 - 🌱 I’m currently learning Development Skills.
@@ -68,10 +62,15 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 
 
 <!--
+<p align="justify">
+
+</p>
+
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
 <code><img height="50" src=""></code>
+
 **rhridwan/rhridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :briefcase: Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
