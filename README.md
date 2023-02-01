@@ -4,6 +4,7 @@
 # RH Ridwan
 
 
+[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rhridwan007@gmail.com)
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ridwanul.haque@northsouth.edu)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ridwanul-haque-b4729a169/)
 ![Profile views](https://gpvc.arturio.dev/rhridwan)
@@ -27,26 +28,15 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 
 
 
-## Find me here!!
-* [LinkedIn](https://www.linkedin.com/in/ridwanul-haque-b4729a169/)
-* [Instagram](https://www.instagram.com/xihridwan/)
-* [ResearchGate](https://www.researchgate.net/profile/Ridwanul_Haque)
-* [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=-RdiYlQAAAAJ)
-* [Twiter](https://twitter.com/RHRidwan3)
-
-[![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ridwanul.haque@northsouth.edu)
-[![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ridwanul-haque-b4729a169/)
-![ ](https://img.shields.io/github/followers/rhridwan?style=social)
-![](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2RHRidwan3)
+## Me On The Internet!
+[ResearchGate](https://www.researchgate.net/profile/Ridwanul_Haque) | [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=-RdiYlQAAAAJ) | [Instagram](https://www.instagram.com/xihridwan/) | [Twiter](https://twitter.com/RHRidwan3)
 
 
 
 
 
 
-
-
-## Some Thing I Use ... 
+## Stuff I Use ... 
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
@@ -59,6 +49,9 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 <code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"></code>
 
 
+
+
+
 <h2 align="center">Github Stats</h2>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=rhridwan&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
@@ -68,7 +61,7 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhridwan&theme=dracula&layout=compact&hide_border=true)
 
 
-## Some Thing About Me ...
+## Things ...
 
 - 🔭 I’m currently working on Course Projects.
 - 🌱 I’m currently learning Python, Machine Learning.
