@@ -29,24 +29,15 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 
 
 ## Me On The Internet!
-[ResearchGate](https://www.researchgate.net/profile/Ridwanul_Haque) | [Google Scholar](https://scholar.google.com/citations?hl=en&authuser=1&user=-RdiYlQAAAAJ) | [Instagram](https://www.instagram.com/xihridwan/) | [Twiter](https://twitter.com/RHRidwan3)
+[<b>ResearchGate</b>](https://www.researchgate.net/profile/Ridwanul_Haque) | [<b>Google Scholar</b>](https://scholar.google.com/citations?hl=en&authuser=1&user=-RdiYlQAAAAJ) | [<b>Instagram</b>](https://www.instagram.com/xihridwan/) | [<b>Twiter</b>](https://twitter.com/RHRidwan3)
 
 
-
+<b></b>
 
 
 
 ## Stuff I Use ... 
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/arduino/arduino-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/SketchUp_logo.svg/1200px-SketchUp_logo.svg.png"></code>
 
 
 
@@ -61,10 +52,12 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rhridwan&theme=dracula&layout=compact&hide_border=true)
 
 
+
+
 ## Things ...
 
-- 🔭 I’m currently working on Course Projects.
-- 🌱 I’m currently learning Python, Machine Learning.
+- 🔭 I’m currently working on Personal Development.
+- 🌱 I’m currently learning Development Skills.
 - 💬 Ask me about nothing...
 - 📫 How to reach me: Just Search or Email me.
 - ⚡ Fun fact: We have a Robotic Team named <b>Ignite</b>. Look at <a href="https://www.facebook.com/nsuignite">NSU IGNITE</a>.
@@ -72,14 +65,13 @@ My primary field of interest is <b>Machine Learning</b> and applications of <b>C
 [![licensebuttons by-nc-sa](https://licensebuttons.net/l/by-nc-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-nc-sa/4.0)
 
 
-<!--
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
-<code><img height="50" src=""></code>
--->
+
 
 <!--
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
+<code><img height="50" src=""></code>
 **rhridwan/rhridwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - :briefcase: Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
@@ -92,7 +84,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - I have a small <b>Robotic</b> team named <a href="https://www.facebook.com/nsuignite" target="_blank"><b>IGNITE<b/></a>.
-
 - :briefcase: Founding Member at <a href="https://www.facebook.com/nsuignite" target="_blank">NSU IGNITE</a>
 -->
 
