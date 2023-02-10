@@ -1,13 +1,19 @@
 <a target="_blank"><img height = "270" width="300" align="right" src="https://github.com/rhridwan/rhridwan/blob/main/images/A.gif"></a>
 
+<h1 align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;------&left=true&size=35">
+  </a>
+</h1>
+
 
 # RH Ridwan
-
 
 1 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:rhridwan007@gmail.com)
 2 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:ridwanul.haque@northsouth.edu)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ridwanul-haque-b4729a169/)
 ![Profile views](https://gpvc.arturio.dev/rhridwan)
+<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=rhridwan">
 
 <p1 align="justify">
 I am <b>Computer Science and Engineering Graduate</b> from <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, <a href="http://www.northsouth.edu/">North South University</a>. My primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
