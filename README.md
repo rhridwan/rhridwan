@@ -31,7 +31,8 @@ I am <b>Computer Science and Engineering Graduate</b> from <a href="http://ece.n
 
 
 ## Me On The Internet!
-[<b>ResearchGate</b>](https://www.researchgate.net/profile/Ridwanul_Haque) | [<b>Google Scholar</b>](https://scholar.google.com/citations?hl=en&authuser=1&user=-RdiYlQAAAAJ) | [<b>Facebook</b>](https://www.facebook.com/rh.ridwan.9/)  | [<b>Instagram</b>](https://www.instagram.com/xihridwan/) | [<b>Twiter</b>](https://twitter.com/RHRidwan3)
+* [<b>Google Scholar</b>](https://scholar.google.com/citations?hl=en&authuser=1&user=-RdiYlQAAAAJ)  | [<b>ResearchGate</b>](https://www.researchgate.net/profile/Ridwanul_Haque)
+* <b>Social:</b> [<b>Facebook</b>](https://www.facebook.com/rh.ridwan.9/)  | [<b>Instagram</b>](https://www.instagram.com/xihridwan/) | [<b>Twiter</b>](https://twitter.com/RHRidwan3)
 
 
 <b></b>
