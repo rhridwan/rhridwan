@@ -32,14 +32,13 @@ I am <b>Computer Science and Engineering Graduate</b> from <a href="http://ece.n
 
 
 
-## Stuff I Use ... 
+## Stuff I Work With ... 
 
 
 
+## Github Stats ...
 
-
-<h2 align="left">Github Stats</h2>
-<div align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=rhridwan&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=rhridwan&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=0AD4F7&ring=00FF9B&fire=FFA200&currStreakLabel=FFA200&currStreakNum=00F0FF&sideNums=00FF9B&sideLabels=FFA200&dates=727272&background=DD272700">
 </div>
 
 ![My Github stats](https://github-readme-stats.vercel.app/api?username=rhridwan&theme=dracula&show_icons=true&hide_border=true)
