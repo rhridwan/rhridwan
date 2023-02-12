@@ -16,7 +16,7 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=rhridwan">
 
 <p1 align="justify">
-Ridwanul Haque is an <b>Master Business Administration (MBA)</b> student at  the <a href="http://www.northsouth.edu/sbe/" target="_blank">Dept of SBE</a>, <a href="http://www.northsouth.edu/">North South University</a>. He completed his <b>Computer Science and Engineering</b> degree from <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, <a href="http://www.northsouth.edu/">North South University</a>. His primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
+<b>Ridwanul Haque<b/> is an <b>Master Business Administration (MBA)</b> student at  the <a href="http://www.northsouth.edu/sbe/" target="_blank">Dept of SBE</a>, <a href="http://www.northsouth.edu/">North South University</a>. He completed his <b>Computer Science and Engineering</b> degree from <a href="http://ece.northsouth.edu/" target="_blank">Dept of ECE</a>, <a href="http://www.northsouth.edu/">North South University</a>. His primary field of interest is <b>Machine Learning</b> and applications of <b>Computer Vision</b> in <b>Robotics</b>.
 </p1>
 
 <p align="justify">
