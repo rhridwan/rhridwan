@@ -42,7 +42,7 @@
 
 ## Stuff I Work With ... 
 A man without a goal is like a ship without a rudder. - Thomas Carlyle
-* I think, I'm that man he is talking about 🤨
+* I think, I'm that man he was talking about 🤨
 
 
 ## Github Stats ...
